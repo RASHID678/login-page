@@ -1,2 +1,2 @@
-name = rashid
+name = rashid &
 password = 123456
